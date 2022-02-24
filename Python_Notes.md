@@ -13,4 +13,5 @@
 **deactivate** -> to deactivate a virtual env
 **delete venv** -> rm -r [name]
 
+
 ## 
