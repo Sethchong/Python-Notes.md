@@ -11,7 +11,13 @@
 <br>
 
 **deactivate** -> to deactivate a virtual env
+
 **delete venv** -> rm -r [name]
 
+## Requirements.txt 
+
+- a way for you to instsall all the requried packages by using:
+
+pip install -r requirements.txt
 
 ## 
