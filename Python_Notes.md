@@ -18,6 +18,6 @@
 
 - a way for you to instsall all the requried packages by using:
 
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 
 ## 
